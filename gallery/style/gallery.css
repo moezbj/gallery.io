@@ -1,0 +1,25 @@
+body{
+background-color: grey;
+}
+h1{
+	text-align: center;
+}
+hr{
+	width: 1px;
+}
+main{
+
+
+}
+
+.images{
+		width: 70%;
+	margin: 0 auto;
+}
+.main-picture{
+	width: 100%
+
+}
+.pictures{
+	display: inline-block;
+}
